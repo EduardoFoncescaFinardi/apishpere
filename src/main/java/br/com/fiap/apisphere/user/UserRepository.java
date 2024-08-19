@@ -1,4 +1,4 @@
-package br.com.fiap.apishpere.user;
+package br.com.fiap.apisphere.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

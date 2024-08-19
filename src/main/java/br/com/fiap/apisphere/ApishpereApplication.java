@@ -1,4 +1,4 @@
-package br.com.fiap.apishpere;
+package br.com.fiap.apisphere;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
